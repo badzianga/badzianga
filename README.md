@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**badzianga/badzianga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### > pwd
+[https://github.com/badzianga](https://github.com/badzianga)
 
-Here are some ideas to get you started:
+### > whoami
+Hi, I'm Tomek, a 3rd year IT student from Poland. I work mainly in C and C++, but I also have some knowledge about Python, Java and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### > ls
+All of my repositiories are available in another tab, however the most interesting (in my opinion) are pinned below.
+
+### > contact
+Want to contact me? Email me (**tomekoszczypko@gmail.com**) or write on [LinkedIn](https://www.linkedin.com/in/tomasz-oszczypko-043689240/).
+
+### > stats
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badzianga&layout=compact&theme=onedark" alt=badzianga />
