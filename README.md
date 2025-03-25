@@ -1,8 +1,5 @@
 ## Hello there 👋
 
-### > pwd
-[https://github.com/badzianga](https://github.com/badzianga)
-
 ### > whoami
 Hi, I'm Tomek, a 3rd year IT student from Poland. I work mainly in C and C++, but I also have some knowledge about Python, Java and SQL.
 
